@@ -1,0 +1,2 @@
+# wp-create_pages
+WordpressでWebサイト作成時の固定ページ登録をjsonファイルから実行する
