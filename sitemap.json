@@ -1,0 +1,17 @@
+{
+  "page": [
+    {
+      "title": "お問い合せ",
+      "slug": "contact"
+    }, {
+      "title": "会社案内",
+      "slug": "company",
+      "children": [
+          {
+            "title": "会社概要",
+            "slug": "about"
+          }
+      ]
+    }
+  ]
+}
